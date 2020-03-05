@@ -1,1 +1,2 @@
 # Code-Refractor
+This project was issued to help us refine existing code. In this code I combined repetitve CSS styles under a single class. This made the HTML easier to read and easier to see what styles belong to which element, it also shortened the CSS making it easier to find specific selectors.
